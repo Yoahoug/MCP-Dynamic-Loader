@@ -430,3 +430,4 @@ def load_tools_dynamic():
 4. 测试工具功能是否正常
 
 **最后更新**: 2025-12-25
+[![MCP Badge](https://lobehub.com/badge/mcp/yoahoug-mcp-dynamic-loader)](https://lobehub.com/mcp/yoahoug-mcp-dynamic-loader)
